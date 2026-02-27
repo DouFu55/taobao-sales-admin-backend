@@ -1,0 +1,4 @@
+/database/tb.db
+/uploads/*
+!/uploads/
+!/uploads/.
